@@ -1,0 +1,77 @@
+body{
+    background-color: #eeecedf3;
+    font-family: 'Roboto', sans-serif;
+    color: black;
+}
+
+.navbar-brand {
+    h3{
+        font-family: 'Playfair Display', serif;
+    }
+}
+
+
+.btn-login{
+    background-color: black;
+    color: #f0e1e7;
+    margin-top: -8px !important;
+    margin-bottom: -8px !important;
+    margin-right: -16px !important;
+
+    height: 40px;
+    border-radius: 0;
+
+&:hover {
+    background-color: #976f7f;
+    color: #f0e1e7;
+     }
+}
+
+.carousel-inner{
+    width: 1560px;
+    height: 600px;
+    margin-bottom: 0px;
+    margin-top: -25px;
+    margin-left: -230px;
+}
+
+.carousel-control-prev{
+    margin-left: -200px;
+}
+.carousel-control-next{
+    margin-right: -190px;
+}
+
+.btn-primary{
+    background-color: black;
+    color: #f0e1e7;
+    margin-top: 15px !important;
+    margin-bottom: 8px !important;
+    margin-right: 16px !important;
+    margin-left: 40px;    
+    height: 100px;
+    width: 300px;
+    border-radius: 10;
+
+&:hover {
+    background-color: #976f7f;
+    color: #f0e1e7;
+     }
+}
+
+.section-footer{
+    background-color: #ddd7d9;
+    margin-left: -210px;
+    margin-right: -210px;
+
+    h5{
+        color: black;
+        margin-left: 250%;
+    }
+    a{
+        color: #976f7f;
+        margin-left: 250%;
+    }
+    
+}
+
